@@ -1,1 +1,94 @@
-# management-docs
+# Aprendizado por Projeto Integrador (API)
+Projeto em desenvolvimento pelos alunos da Equipe ResUOLve <br>
+Turma 6º Semestre do curso Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos.
+ 
+## 📌 Desafio
+A empresa parceira do ramo de conteúdo online, serviços digitais e tecnologia, conta com visitas de noventa por cento dos usuários da internet brasileira.
+Assim, a disponibilidade dos produtos em nuvem do empresa é uma preocupação constante. Dado a relevância estratégica do controle da inalienabilidade de seus sistemas, é necessário criação de ferramentas que auxiliem na *detecção e provisionamento de indisponibilidade de seus sites*.
+ 
+## 💹 Planejamento
+- [x] Kick-off - 18/03 até 24/03
+- [x] Sprint 1 - 25/03 até 17/04
+- [ ] Sprint 2 - xx/xx ao xx/xx  
+- [ ] Sprint 3 - xx/xx ao xx/xx
+- [ ] Apresentação final - xx/xx ao xx/xx
+ 
+## 📃 Product Backlog
+Acesse o link para visualizar:
+ - [Backlog descritivo](Em progresso)
+ ___
+ 
+## 👨‍💻 Desenvolvimento
+- Frontend: Vue.Js, Vercel
+- Backend: Spring Boot, PostgreSQL, Heroku
+  - Monitoramento: Grafana, Prometheus
+- Inteligência Artificial: Scikit-learn
+
+___
+ 
+## 🏢 Time
+ 
+| Aluno(a)             | Função           | GitHub                                                                       | 
+| -------------------- | ---------------- | ---------------------------------------------------------------------------- | 
+| __Cauane Andrade__   | *Scrum Master*   | [![](https://bit.ly/3f9Xo0P)]()                                              | [![](https://github.com/cauaneandrade)]()     |
+| __Evandro Braga__    | *Product Owner*  | [![](https://bit.ly/3f9Xo0P)]()                                              | [![](https://github.com/EvandroRBR)]()        |
+| __Samuel Xavier__    | *Developer Team* | [![](https://bit.ly/3f9Xo0P)]()                                              | [![](https://github.com/krusader1982)]()      |
+| __Matheus Campos__   | *Developer Team* | [![](https://bit.ly/3f9Xo0P)]()                                              | [![](https://github.com/MatheusCampos-450)]() |
+| __Lucas Okazaki__    | *Developer Team* | [![](https://bit.ly/3f9Xo0P)]()                                              |
+| __Leonardo Messias__ | *Developer Team* | [![](https://bit.ly/3f9Xo0P)]()[![](https://github.com/LeonardoMessias98)]() |
+| __Rafael Marques__   | *Developer Team* | [![](https://bit.ly/3f9Xo0P)]()[![](https://github.com/rafaelfmarques)]()    |
+___
+ 
+## 📂Sprints
+Todos os entregáveis e planejamento para as sprints serão descritos abaixo:
+ 
+ 
+### 📝Sprint 1
+> Status: Concluído ✅
+ 
+> Objetivo:
+ 
+> Documentações geradas:
+ 
+- Gestão e Governança de Tecnologia da Informação
+   - [Design Thinking](https://github.com/FatecAPITeam/management-docs/blob/main/Design%20Thinking.pdf)
+ 
+- Gestão de Projetos
+   - [TAP](https://github.com/FatecAPITeam/management-docs/blob/main/TAP.pdf)
+   - [Escopo](https://github.com/FatecAPITeam/management-docs/blob/main/Declara%C3%A7%C3%A3o%20do%20escopo%20do%20Projeto.pdf)
+   - [Cronograma](https://github.com/FatecAPITeam/management-docs/blob/main/Plano%20de%20Gerenciamento%20de%20Cronograma.pdf)
+ 
+- [Apresentação]()
+-  [Vídeo Demonstrativo]()
+ 
+___
+ 
+### 📝Sprint 2
+> Status: Em construção...
+ 
+> Objetivo:
+ 
+> Documentações geradas:
+ 
+- Gestão e Governança de Tecnologia da Informação
+    - [Design Thinking]()
+   
+- Gestão de Projetos
+    - [Cronograma]()
+   
+___
+ 
+### 📝 Sprint 3
+> Status: Em construção...
+ 
+> Objetivo:
+ 
+> Documentações geradas:
+ 
+- Gestão e Governança de Tecnologia da Informação
+    - [Design Thinking]()
+    - [Fresh Desk]()
+   
+- Gestão de Projetos
+    - [Gerenciamento de Risco]()
+    - [Project Model Canvas]()
