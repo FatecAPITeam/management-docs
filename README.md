@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/56441371/163744205-5d5c8c26-21a3-47bb-9ca2-8f1396082d7f.svg)
+
 # Aprendizado por Projeto Integrador (API)
 Projeto em desenvolvimento pelos alunos da Equipe ResUOLve <br>
 Turma 6º Semestre do curso Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos.
@@ -12,11 +14,6 @@ Assim, a disponibilidade dos produtos em nuvem do empresa é uma preocupação c
 - [ ] Sprint 2 - xx/xx ao xx/xx  
 - [ ] Sprint 3 - xx/xx ao xx/xx
 - [ ] Apresentação final - xx/xx ao xx/xx
- 
-## 📃 Product Backlog
-Acesse o link para visualizar:
- - [Backlog descritivo](Em progresso)
- ___
  
 ## 👨‍💻 Desenvolvimento
 - Frontend: Vue.Js, Vercel
@@ -47,6 +44,7 @@ Todos os entregáveis e planejamento para as sprints serão descritos abaixo:
 > Status: Concluído ✅
  
 > Objetivo:
+- Criar uma plataforma web para cadastro de usuários com monitoramento do sistema integrado com o Prometheus e Grafana e gerando alertas de possiveis falas integrado com o Discord
  
 > Documentações geradas:
  
