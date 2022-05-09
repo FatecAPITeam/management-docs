@@ -11,9 +11,9 @@ Assim, a disponibilidade dos produtos em nuvem do empresa é uma preocupação c
 ## 💹 Planejamento
 - [x] Kick-off - 18/03 até 24/03
 - [x] Sprint 1 - 25/03 até 17/04
-- [ ] Sprint 2 - xx/xx ao xx/xx  
-- [ ] Sprint 3 - xx/xx ao xx/xx
-- [ ] Apresentação final - xx/xx ao xx/xx
+- [ ] Sprint 2 - 25/04 ao 15/05  
+- [ ] Sprint 3 - 16/05 ao 05/06
+- [ ] Apresentação final - 15/06
  
 ## 👨‍💻 Desenvolvimento
 - Frontend: Vue.Js, Vercel
