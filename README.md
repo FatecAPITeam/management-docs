@@ -36,6 +36,9 @@ ___
 | __Rafael Marques__   | *Developer Team* | [![](https://bit.ly/3f9Xo0P)]()[![](https://github.com/rafaelfmarques)]()    |
 ___
  
+## Backlog
+![backlog-resolve](https://user-images.githubusercontent.com/56457600/167609764-9492e23c-6f8f-4bec-9546-e655286a22ce.png)
+ 
 ## 📂Sprints
 Todos os entregáveis e planejamento para as sprints serão descritos abaixo:
  
