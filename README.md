@@ -37,7 +37,7 @@ ___
 ___
  
 ## Backlog
-![backlog-resolve](https://user-images.githubusercontent.com/56457600/167609764-9492e23c-6f8f-4bec-9546-e655286a22ce.png)
+![backlog-resuolve](https://user-images.githubusercontent.com/56457600/167851868-26ac234d-6747-471d-a05b-39a2e8432a01.png)
  
 ## 📂Sprints
 Todos os entregáveis e planejamento para as sprints serão descritos abaixo:
